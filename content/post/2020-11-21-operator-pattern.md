@@ -7,6 +7,9 @@ categories = ["kubernetes", "devops"]
 +++
 
 >Operators Are Software SREs.
-The key tenet of SRE is automating systems administration by writing software to run your software. 
-An Operator is like an automated SRE for its applications.
+The key tenet of SRE is to automate system administrations
+by writing software to run your software. 
+An Operator is like an automated SRE for its applications.So try it.
 
+You will amazed by its efficiency.
+Also,remember to give me stars,cause that's really important for me.
